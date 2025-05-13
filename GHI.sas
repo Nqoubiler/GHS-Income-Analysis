@@ -47,14 +47,14 @@ run;
 /* trying to find the standard deviation of salary to help determine our sample size, 
 we need to know how much the data varies in terms of monthly salary because the sample size
 is so much dependent on the standard deviation if our data varies too much then we need a large sample size
-so that we minimuze our error thus putting more confidence in our results */
+so that we minimize our error thus putting more confidence in our results */
 
 proc means data=mylib.pilotresult;
 run;
 		
-/*so after careful considerations we dicidecidedded that our error should be 25 000 
+/*so after careful considerations we dicidecid that our error should be 25 000 
 so after seeing how much our data varies and how much can our project tolerate in terms of error
-we saw that an error of 25 000 maximizes our sample sizedecidedconsiderationminimize
+we saw that an error of 25 000 maximizes our sample size decided consideratio minimize
 */
 
 
