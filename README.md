@@ -53,13 +53,6 @@ Each method was used to estimate:
 - Around **33% of households** earn **less than R4500**, indicating a significant population requiring financial support.
 - Estimated **total household salary** is a useful economic indicator for tax and GDP contributions.
 
-## Authors
-
--Lungisani Mhlongo
--Nqobile Sithole
--Olwethu Ngubo
--Terell Govender
-
 ## License
 
 This project is for academic and educational use. Do not reproduce without permission.
