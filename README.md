@@ -20,7 +20,7 @@ This project analyzes household monthly salary data from the South African Gener
   - `FIN_EXP`: Used for **stratification** based on monthly expenditure
   - `PROV`: Used as the **clustering** variable (province)
 
-## 🧪 Sampling Methods Applied
+##  Sampling Methods Applied
 
 1. **Simple Random Sampling (SRS)** – With and without replacement
 2. **Stratified Sampling** – Using monthly household expenditure as strata
@@ -60,6 +60,6 @@ Each method was used to estimate:
 -Olwethu Ngubo
 -Terell Govender
 
-## 📜 License
+## License
 
 This project is for academic and educational use. Do not reproduce without permission.
