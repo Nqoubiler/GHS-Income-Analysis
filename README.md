@@ -1,3 +1,7 @@
+## General Household Survey (GHS) using SAS
+
+---
+
 This project involved a statistical analysis of South African household income data using the General Household Survey (GHS) to estimate national salary indicators and evaluate the performance of different probability sampling techniques.
 
 Using SAS, I applied survey sampling methods to produce reliable estimates that can support government planning, poverty reduction strategies, and socio-economic decision-making.
